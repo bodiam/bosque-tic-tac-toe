@@ -1,0 +1,5 @@
+# TicTacToe in Bosque and Kotlin
+
+This repository is part of the blogpost about TicTacToe written in Kotlin and Bosque.
+
+You can find the article here: https://www.jworks.io/tictactoe-in-bosque-and-kotlin/
